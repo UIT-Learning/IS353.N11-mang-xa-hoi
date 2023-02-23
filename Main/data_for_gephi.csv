@@ -1,0 +1,116 @@
+source,target,weight
+OPPO,Xiaomi,5
+OPPO,HTC,3
+OPPO,Apple,5
+OPPO,GIONEE,6
+OPPO,SAMSUNG,7
+OPPO,realme,6
+OPPO,Google Pixel,3
+OPPO,Motorola,7
+OPPO,POCO,4
+OPPO,Nokia,5
+OPPO,vivo,6
+OPPO,LG,6
+OPPO,ASUS,7
+OPPO,IQOO,2
+OPPO,Lenovo,5
+HTC,Xiaomi,3
+HTC,Apple,3
+HTC,GIONEE,3
+HTC,POCO,3
+HTC,Nokia,3
+HTC,SAMSUNG,3
+HTC,LG,3
+HTC,ASUS,3
+HTC,vivo,3
+HTC,Lenovo,3
+HTC,realme,3
+HTC,Google Pixel,2
+HTC,Motorola,3
+IQOO,Xiaomi,1
+IQOO,GIONEE,1
+IQOO,POCO,1
+IQOO,SAMSUNG,2
+IQOO,LG,1
+IQOO,ASUS,2
+IQOO,vivo,2
+IQOO,realme,2
+IQOO,Motorola,2
+Google Pixel,Xiaomi,3
+Google Pixel,Apple,3
+Google Pixel,GIONEE,3
+Google Pixel,POCO,2
+Google Pixel,Nokia,3
+Google Pixel,SAMSUNG,3
+Google Pixel,LG,3
+Google Pixel,ASUS,3
+Google Pixel,vivo,3
+Google Pixel,Lenovo,3
+Google Pixel,realme,3
+Google Pixel,Motorola,3
+LG,Xiaomi,5
+LG,Apple,5
+LG,GIONEE,7
+LG,SAMSUNG,9
+LG,realme,5
+LG,Motorola,6
+LG,POCO,4
+LG,Nokia,7
+LG,vivo,5
+LG,ASUS,6
+LG,Lenovo,6
+ASUS,Xiaomi,5
+ASUS,Apple,5
+ASUS,GIONEE,6
+ASUS,SAMSUNG,8
+ASUS,realme,6
+ASUS,Motorola,7
+ASUS,POCO,4
+ASUS,Nokia,5
+ASUS,vivo,6
+ASUS,Lenovo,5
+realme,Xiaomi,5
+realme,Apple,4
+realme,GIONEE,5
+realme,SAMSUNG,6
+realme,Motorola,6
+realme,POCO,4
+realme,Nokia,4
+realme,vivo,6
+realme,Lenovo,4
+GIONEE,Xiaomi,5
+GIONEE,Apple,5
+GIONEE,SAMSUNG,8
+GIONEE,Motorola,6
+GIONEE,POCO,4
+GIONEE,Nokia,8
+GIONEE,vivo,5
+GIONEE,Lenovo,6
+Nokia,Xiaomi,4
+Nokia,Apple,5
+Nokia,POCO,3
+Nokia,SAMSUNG,12
+Nokia,vivo,4
+Nokia,Lenovo,7
+Nokia,Motorola,5
+Apple,Xiaomi,4
+Apple,POCO,3
+Apple,SAMSUNG,5
+Apple,vivo,4
+Apple,Lenovo,5
+Apple,Motorola,5
+SAMSUNG,Xiaomi,5
+SAMSUNG,Motorola,8
+SAMSUNG,POCO,4
+SAMSUNG,vivo,6
+SAMSUNG,Lenovo,6
+Lenovo,Xiaomi,4
+Lenovo,POCO,3
+Lenovo,vivo,4
+Lenovo,Motorola,5
+Motorola,Xiaomi,5
+Motorola,POCO,4
+Motorola,vivo,6
+POCO,Xiaomi,4
+POCO,vivo,4
+vivo,Xiaomi,5

@@ -1,0 +1,42 @@
+source,target,weight
+OPPO,Xiaomi,5
+OPPO,Google Pixel,3
+OPPO,HTC,3
+OPPO,realme,6
+OPPO,POCO,4
+OPPO,IQOO,2
+OPPO,Lenovo,5
+OPPO,vivo,6
+OPPO,Apple,5
+HTC,Xiaomi,3
+HTC,Google Pixel,2
+HTC,realme,3
+HTC,POCO,3
+HTC,Lenovo,3
+HTC,vivo,3
+HTC,Apple,3
+IQOO,Xiaomi,1
+IQOO,realme,2
+IQOO,POCO,1
+IQOO,vivo,2
+Google Pixel,Xiaomi,3
+Google Pixel,realme,3
+Google Pixel,POCO,2
+Google Pixel,Lenovo,3
+Google Pixel,vivo,3
+Google Pixel,Apple,3
+realme,Xiaomi,5
+realme,POCO,4
+realme,Lenovo,4
+realme,vivo,6
+realme,Apple,4
+Apple,Xiaomi,4
+Apple,POCO,3
+Apple,Lenovo,5
+Apple,vivo,4
+Lenovo,Xiaomi,4
+Lenovo,POCO,3
+Lenovo,vivo,4
+POCO,Xiaomi,4
+POCO,vivo,4
+vivo,Xiaomi,5
